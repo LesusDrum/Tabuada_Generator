@@ -1,0 +1,47 @@
+
+
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css";
+
+.alert-secondary-par {
+    background-color: #343a40;
+}
+
+.alert-secondary-impar {
+    background-color: #dfd6a2;
+}
+
+.ver {
+    background-color: #cfe7d4;
+}
+
+.ver-par{
+    background-color: #c72233;
+}
+
+.ver-impar{
+    background-color: #40bb5d;
+}
+
+.azula {
+    background-color: #dfd8ad ;
+}
+
+.azula-par {
+    background-color: #132843;
+}
+
+.azula-impar {
+    background-color: #face49ec;
+}
+
+.rosab {
+    background-color: #ced4da;
+}
+
+.rosab-par {
+   background-color: #a1436f;
+}
+
+.rosab-impar {
+    background-color: #f8f9fa;
+}
